@@ -4,7 +4,7 @@ MSc Artificial Intelligence at JKU Linz — coursework complete, thesis in progr
 
 **Thesis** — [fusiontimeseries](https://github.com/lukaskurz/fusiontimeseries): can pre-trained time-series foundation models predict turbulent heat flux in tokamak plasma? I work on the few-shot in-context learning half, evaluated against the GyroSwin-1B 5D neural surrogate (Paischer et al., 2025). Joint project with [@sbergsmann](https://github.com/sbergsmann), who covers zero-shot and finetuning.
 
-**Other things I build**
+**Other things I built recently**
 
 - [brainchair](https://github.com/lukaskurz/brainchair) — MCP server in Go that gives Claude Code, Claude Desktop and other clients one shared SQLite memory. Full-text search, entry types registered at runtime, version history. In daily use.
 - [flashbang](https://github.com/lukaskurz/flashbang) — turns lecture PDFs into Anki decks, via the Claude API or a local Ollama model.
